@@ -38,8 +38,7 @@ Professor and Head of Department, ECE
  Dr. Sangeetha B G<br/>
  Assistant Professor
 <br/>
-<br/>
-<br/>
+
 ## Important Dates ## 
 * * *
 ```markdown
